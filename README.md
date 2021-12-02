@@ -1,2 +1,2 @@
 # ChatUI
-It seems easy but its learned in 24 hrs
+My first HTML CSS project. It was a fun day learning them.
